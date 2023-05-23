@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎I'm majoring in Information Systems at Unifacisa College in Campina Grande PB, <br>💻I currently work at Dock coding in node.js using React
+😎I'm majoring in Information Systems at Unifacisa College in Campina Grande PB, <br>💻I currently work at Dock coding in Node.js using React.js
 
 
 ## 🌐 Socials:
